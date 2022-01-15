@@ -1,6 +1,6 @@
 # C-Webserver
 
-A simple light weight webserver written in C, it is mainly for testing purposes.
+A simple light weight webserver written in C, it only uses the standard lib and I wrote it mainly for learning purposes.
 
 ## supported filetypes:
 * .html
