@@ -14,3 +14,16 @@ A simple light weight webserver written in C, it is mainly for testing purposes.
 * .xml
 * .pdf
 * .js
+
+## console output
+
+![](https://i.imgur.com/LV9aS3v.png)
+
+## Images
+
+![](https://i.imgur.com/QeJhxTN.png)
+
+## Full Website
+
+![](https://i.imgur.com/efDK940.png)
+
